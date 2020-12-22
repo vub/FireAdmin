@@ -65,7 +65,8 @@
               "node_modules/material-icons-font/material-icons-font.css",
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "node_modules/datatables.net-responsive-dt/css/responsive.dataTables.min.css",
-              "node_modules/quill/dist/quill.snow.css"
+              "node_modules/quill/dist/quill.snow.css",
+              "node_modules/tui-calendar/dist/tui-calendar.min.css"
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
